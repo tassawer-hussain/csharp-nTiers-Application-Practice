@@ -1,0 +1,5 @@
+c:\users\tassawer\documents\visual studio 2013\Projects\nTiersApplicationPractise\eObjects\bin\Debug\eObjects.dll
+c:\users\tassawer\documents\visual studio 2013\Projects\nTiersApplicationPractise\eObjects\bin\Debug\eObjects.pdb
+c:\users\tassawer\documents\visual studio 2013\Projects\nTiersApplicationPractise\eObjects\obj\Debug\entityObjects.csprojResolveAssemblyReference.cache
+c:\users\tassawer\documents\visual studio 2013\Projects\nTiersApplicationPractise\eObjects\obj\Debug\eObjects.dll
+c:\users\tassawer\documents\visual studio 2013\Projects\nTiersApplicationPractise\eObjects\obj\Debug\eObjects.pdb

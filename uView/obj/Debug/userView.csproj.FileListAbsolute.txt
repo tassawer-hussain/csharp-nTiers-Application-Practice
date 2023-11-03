@@ -1,0 +1,11 @@
+c:\users\tassawer\documents\visual studio 2013\Projects\nTiersApplicationPractise\uView\bin\Debug\uView.dll
+c:\users\tassawer\documents\visual studio 2013\Projects\nTiersApplicationPractise\uView\bin\Debug\uView.pdb
+c:\users\tassawer\documents\visual studio 2013\Projects\nTiersApplicationPractise\uView\bin\Debug\bLogic.dll
+c:\users\tassawer\documents\visual studio 2013\Projects\nTiersApplicationPractise\uView\bin\Debug\eObjects.dll
+c:\users\tassawer\documents\visual studio 2013\Projects\nTiersApplicationPractise\uView\bin\Debug\dataAccess.dll
+c:\users\tassawer\documents\visual studio 2013\Projects\nTiersApplicationPractise\uView\bin\Debug\bLogic.pdb
+c:\users\tassawer\documents\visual studio 2013\Projects\nTiersApplicationPractise\uView\bin\Debug\eObjects.pdb
+c:\users\tassawer\documents\visual studio 2013\Projects\nTiersApplicationPractise\uView\bin\Debug\dataAccess.pdb
+c:\users\tassawer\documents\visual studio 2013\Projects\nTiersApplicationPractise\uView\obj\Debug\userView.csprojResolveAssemblyReference.cache
+c:\users\tassawer\documents\visual studio 2013\Projects\nTiersApplicationPractise\uView\obj\Debug\uView.dll
+c:\users\tassawer\documents\visual studio 2013\Projects\nTiersApplicationPractise\uView\obj\Debug\uView.pdb

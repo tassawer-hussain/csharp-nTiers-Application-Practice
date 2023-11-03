@@ -1,0 +1,14 @@
+c:\users\tassawer\documents\visual studio 2013\Projects\nTiersApplicationPractise\nTiersApplicationPractise\bin\Debug\nTiersApplicationPractise.exe.config
+c:\users\tassawer\documents\visual studio 2013\Projects\nTiersApplicationPractise\nTiersApplicationPractise\bin\Debug\nTiersApplicationPractise.exe
+c:\users\tassawer\documents\visual studio 2013\Projects\nTiersApplicationPractise\nTiersApplicationPractise\bin\Debug\nTiersApplicationPractise.pdb
+c:\users\tassawer\documents\visual studio 2013\Projects\nTiersApplicationPractise\nTiersApplicationPractise\bin\Debug\uView.dll
+c:\users\tassawer\documents\visual studio 2013\Projects\nTiersApplicationPractise\nTiersApplicationPractise\bin\Debug\eObjects.dll
+c:\users\tassawer\documents\visual studio 2013\Projects\nTiersApplicationPractise\nTiersApplicationPractise\bin\Debug\bLogic.dll
+c:\users\tassawer\documents\visual studio 2013\Projects\nTiersApplicationPractise\nTiersApplicationPractise\bin\Debug\dataAccess.dll
+c:\users\tassawer\documents\visual studio 2013\Projects\nTiersApplicationPractise\nTiersApplicationPractise\bin\Debug\uView.pdb
+c:\users\tassawer\documents\visual studio 2013\Projects\nTiersApplicationPractise\nTiersApplicationPractise\bin\Debug\eObjects.pdb
+c:\users\tassawer\documents\visual studio 2013\Projects\nTiersApplicationPractise\nTiersApplicationPractise\bin\Debug\bLogic.pdb
+c:\users\tassawer\documents\visual studio 2013\Projects\nTiersApplicationPractise\nTiersApplicationPractise\bin\Debug\dataAccess.pdb
+c:\users\tassawer\documents\visual studio 2013\Projects\nTiersApplicationPractise\nTiersApplicationPractise\obj\Debug\nTiersApplicationPractise.csprojResolveAssemblyReference.cache
+c:\users\tassawer\documents\visual studio 2013\Projects\nTiersApplicationPractise\nTiersApplicationPractise\obj\Debug\nTiersApplicationPractise.exe
+c:\users\tassawer\documents\visual studio 2013\Projects\nTiersApplicationPractise\nTiersApplicationPractise\obj\Debug\nTiersApplicationPractise.pdb

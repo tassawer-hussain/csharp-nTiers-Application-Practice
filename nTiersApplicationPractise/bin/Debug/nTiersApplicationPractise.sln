@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "nTiersApplicationPractise", "nTiersApplicationPractise.exe", "{49FDFEF1-A333-4DAB-9EB1-11D692323B64}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = C:\Users\Tassawer\Documents\Visual Studio 2013\Projects\nTiersApplicationPractise\nTiersApplicationPractise\bin\Debug\nTiersApplicationPractise.exe
+		RemoteMachine = T-H
+		StartingDirectory = C:\Users\Tassawer\Documents\Visual Studio 2013\Projects\nTiersApplicationPractise\nTiersApplicationPractise\bin\Debug
+		Environment = Default
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49FDFEF1-A333-4DAB-9EB1-11D692323B64}.Debug|x86.ActiveCfg = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

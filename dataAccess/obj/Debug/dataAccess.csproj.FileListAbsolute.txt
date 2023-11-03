@@ -1,0 +1,7 @@
+c:\users\tassawer\documents\visual studio 2013\Projects\nTiersApplicationPractise\dataAccess\bin\Debug\dataAccess.dll
+c:\users\tassawer\documents\visual studio 2013\Projects\nTiersApplicationPractise\dataAccess\bin\Debug\dataAccess.pdb
+c:\users\tassawer\documents\visual studio 2013\Projects\nTiersApplicationPractise\dataAccess\bin\Debug\eObjects.dll
+c:\users\tassawer\documents\visual studio 2013\Projects\nTiersApplicationPractise\dataAccess\bin\Debug\eObjects.pdb
+c:\users\tassawer\documents\visual studio 2013\Projects\nTiersApplicationPractise\dataAccess\obj\Debug\dataAccess.csprojResolveAssemblyReference.cache
+c:\users\tassawer\documents\visual studio 2013\Projects\nTiersApplicationPractise\dataAccess\obj\Debug\dataAccess.dll
+c:\users\tassawer\documents\visual studio 2013\Projects\nTiersApplicationPractise\dataAccess\obj\Debug\dataAccess.pdb

@@ -1,0 +1,9 @@
+c:\users\tassawer\documents\visual studio 2013\Projects\nTiersApplicationPractise\bLogic\bin\Debug\bLogic.dll
+c:\users\tassawer\documents\visual studio 2013\Projects\nTiersApplicationPractise\bLogic\bin\Debug\bLogic.pdb
+c:\users\tassawer\documents\visual studio 2013\Projects\nTiersApplicationPractise\bLogic\bin\Debug\dataAccess.dll
+c:\users\tassawer\documents\visual studio 2013\Projects\nTiersApplicationPractise\bLogic\bin\Debug\eObjects.dll
+c:\users\tassawer\documents\visual studio 2013\Projects\nTiersApplicationPractise\bLogic\bin\Debug\dataAccess.pdb
+c:\users\tassawer\documents\visual studio 2013\Projects\nTiersApplicationPractise\bLogic\bin\Debug\eObjects.pdb
+c:\users\tassawer\documents\visual studio 2013\Projects\nTiersApplicationPractise\bLogic\obj\Debug\businessLogic.csprojResolveAssemblyReference.cache
+c:\users\tassawer\documents\visual studio 2013\Projects\nTiersApplicationPractise\bLogic\obj\Debug\bLogic.dll
+c:\users\tassawer\documents\visual studio 2013\Projects\nTiersApplicationPractise\bLogic\obj\Debug\bLogic.pdb
